@@ -1,2 +1,7 @@
 # name-generator-react
-Created with CodeSandbox
+## Tech 
+* react
+* useState
+
+## Work to do 
+* add api
