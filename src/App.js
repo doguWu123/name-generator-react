@@ -15,6 +15,8 @@ const Button = styled.button`
   border: none;
 `;
 
+//const names = require('@rstacruz/startup-name-generator')
+
 const names = [
   "debugger333X",
   "mosh",
@@ -28,11 +30,19 @@ const names = [
   "uqehx",
   "index",
   "brow",
-  "bru"
+  "bru",
+  "bob",
+  "brew",
+  "keteee",
+  "john",
+  "burger",
+  "berg",
+  "era",
+  "lee"
 ];
 
 function RandomName() {
-  const [name, newName] = useState("Bob");
+  const [name, newName] = useState("debugger333X");
 
   return (
     <div id="RandomName-container">
